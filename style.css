@@ -771,6 +771,7 @@ z-index: 2;
     justify-self: center;
     width: 40vw;
     
+    
   }
 }
 
@@ -787,8 +788,8 @@ z-index: 2;
   }
 
   .portfolio-container .portfolio-box {
-    width: 40vw;
-    height: 60vh;
+    width: 50vw;
+    height: 40vh;
   }
 }
 
