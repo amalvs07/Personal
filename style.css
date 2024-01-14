@@ -555,6 +555,12 @@ header .navbar ul li a:hover {
   }
 }
 
+@media screen and (max-width: 250px) {
+  .animatedabout{
+    width: 180px !important;
+  }
+}
+
 /* about media queries ends*/
 /* about section ends */
 
